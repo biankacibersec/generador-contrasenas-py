@@ -1,4 +1,4 @@
-# 🔒 Generador de Contraseñas Seguras en Python 🔒
+# Generador de Contraseñas Seguras en Python
 
 Este es el proyecto final para la materia de Lógica de Programación.
 
